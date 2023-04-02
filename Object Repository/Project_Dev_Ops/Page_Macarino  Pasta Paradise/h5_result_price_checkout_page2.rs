@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h5_result_price_checkout_page2</name>
+   <tag></tag>
+   <elementGuidId>149a0b56-7c70-454d-87c7-aaf6bd428d3c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.review-item-price > h5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;category&quot;]/div/div/div/div[1]/table/tbody/tr[2]/td[3]/h5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h5</value>
+      <webElementGuid>035c3ca2-02dc-439d-ac3c-07206bf608c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>99 ฿</value>
+      <webElementGuid>7a933e55-9bda-4279-b5c9-23e8b99aaa5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cartModalBody&quot;)/table[@class=&quot;review-table&quot;]/tbody[1]/tr[@class=&quot;review-item-list&quot;]/td[@class=&quot;review-item-price&quot;]/h5[1]</value>
+      <webElementGuid>b0d9d0fb-3da2-46c4-9842-e9bb1d4582a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cartModalBody']/table/tbody/tr/td[3]/h5</value>
+      <webElementGuid>0e02bcc2-8bab-4b7e-a917-3babfc8e544d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingredients: tomatoes, garlic, olive oil'])[1]/following::h5[2]</value>
+      <webElementGuid>cb58be69-f72d-4d38-8d2e-24d399451f6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pasta Tomato Sauce'])[1]/following::h5[2]</value>
+      <webElementGuid>bd57c652-7360-4b0c-970d-b6c6435c9fa6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pasta Aglio Olio'])[1]/preceding::h5[1]</value>
+      <webElementGuid>46854cbe-8fc9-4dc8-b74d-e809810a26e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingredients: Parmigiano-Reggiano cheese, garlic, olive oil, red pepper'])[1]/preceding::h5[2]</value>
+      <webElementGuid>eb0820ee-eed8-4152-a55c-7a67cd8da51f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='99 ฿']/parent::*</value>
+      <webElementGuid>2e85d57b-e0df-4f7d-bdb3-6595901a66bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/h5</value>
+      <webElementGuid>b5e7a387-1cdf-4cc7-8702-b594615112d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h5[(text() = '99 ฿' or . = '99 ฿')]</value>
+      <webElementGuid>ab226a90-0b91-43ed-aadd-86425be07b52</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

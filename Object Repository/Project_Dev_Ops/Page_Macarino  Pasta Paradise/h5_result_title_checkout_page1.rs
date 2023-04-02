@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h5_result_title_checkout_page1</name>
+   <tag></tag>
+   <elementGuidId>8981ba18-ac35-4260-8b65-083ba90d2ca7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.review-item-name > h5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;category&quot;]/div/div/div/div[1]/table/tbody/tr[1]/td[1]/h5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h5</value>
+      <webElementGuid>df7a0777-4ec1-4b2b-a74a-7bbf74fa3994</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pasta Tomato Sauce</value>
+      <webElementGuid>e62442f7-5885-4db5-a33b-d9f5c5366eba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cartModalBody&quot;)/table[@class=&quot;review-table&quot;]/tbody[1]/tr[@class=&quot;review-item-list&quot;]/td[@class=&quot;review-item-name&quot;]/h5[1]</value>
+      <webElementGuid>6a010b54-e8a9-4c66-967a-7f370a4ba9d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cartModalBody']/table/tbody/tr/td/h5</value>
+      <webElementGuid>44619ad4-6d76-4096-98ed-7569389bb507</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Cart'])[1]/following::h5[1]</value>
+      <webElementGuid>db319bf3-4724-46fc-938e-fde6a4a2734e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log out'])[1]/following::h5[2]</value>
+      <webElementGuid>23728189-2c19-4c91-9da7-b14a421b165a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingredients: tomatoes, garlic, olive oil'])[1]/preceding::h5[1]</value>
+      <webElementGuid>6aed74ed-b987-4647-a521-95c99da330ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pasta Aglio Olio'])[1]/preceding::h5[3]</value>
+      <webElementGuid>b3033510-c293-4a17-a2d5-227652f7fd24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pasta Tomato Sauce']/parent::*</value>
+      <webElementGuid>c0caa4b7-1906-4bcc-906b-69ad12720e63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/h5</value>
+      <webElementGuid>6f447109-b6b6-4ee4-add7-5ebf5d25bd2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h5[(text() = 'Pasta Tomato Sauce' or . = 'Pasta Tomato Sauce')]</value>
+      <webElementGuid>2dfe967b-f256-4360-bff5-5ba4c8c30b48</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

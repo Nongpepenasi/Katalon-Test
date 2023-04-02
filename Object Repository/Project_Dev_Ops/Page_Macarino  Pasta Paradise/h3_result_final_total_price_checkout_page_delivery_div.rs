@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_result_final_total_price_checkout_page_delivery_div</name>
+   <tag></tag>
+   <elementGuidId>f4448b20-04a9-4248-a290-8a837e482748</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.cart-total > h3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='category']/div/div/div/div[2]/table/tfoot/tr/td[2]/div/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>1ca68322-1949-4413-a82b-ce7521c56f32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>218 ฿</value>
+      <webElementGuid>ea9e0b47-331c-4cfc-96e2-4a15f4e3127f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;category&quot;)/div[@class=&quot;container-fluid center&quot;]/div[@class=&quot;row&quot;]/div[1]/div[@class=&quot;sidebar-summary bg-transparent&quot;]/table[@class=&quot;summary-table&quot;]/tfoot[1]/tr[1]/td[@class=&quot;text-right&quot;]/div[@class=&quot;cart-total&quot;]/h3[1]</value>
+      <webElementGuid>4b627fe2-952d-4dbe-9b13-e32834f8932d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='category']/div/div/div/div[2]/table/tfoot/tr/td[2]/div/h3</value>
+      <webElementGuid>cee91e63-8625-48a8-b7f5-eda434570d96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[2]/following::h3[1]</value>
+      <webElementGuid>d73c2d15-c9e2-47ab-90cc-0fde66c51e4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delivery Charge'])[1]/following::h3[2]</value>
+      <webElementGuid>fbb8764a-d7e1-4f4e-8d7c-348dac85c750</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue'])[1]/preceding::h3[1]</value>
+      <webElementGuid>99f9214f-9b0a-4668-a350-31f2482c10e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/preceding::h3[1]</value>
+      <webElementGuid>25b4044a-2ad2-4be1-b8ca-3187c79c8624</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/h3</value>
+      <webElementGuid>cfdf6989-4579-4d12-b3df-419c43fd6fb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = '218 ฿' or . = '218 ฿')]</value>
+      <webElementGuid>fd7a0d0f-4315-4aae-baab-0985f221bca0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

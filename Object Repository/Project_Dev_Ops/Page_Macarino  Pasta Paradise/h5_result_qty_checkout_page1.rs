@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h5_result_qty_checkout_page1</name>
+   <tag></tag>
+   <elementGuidId>640ab3a9-72a6-49fe-970f-241b373c1b53</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.review-item-qty > h5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;category&quot;]/div/div/div/div[1]/table/tbody/tr[1]/td[2]/h5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h5</value>
+      <webElementGuid>eac6c912-f2c0-4fef-8e8f-7a35a970d7fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>51612727-fa7b-467a-8ab2-d30ca8498d95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cartModalBody&quot;)/table[@class=&quot;review-table&quot;]/tbody[1]/tr[@class=&quot;review-item-list&quot;]/td[@class=&quot;review-item-qty&quot;]/h5[1]</value>
+      <webElementGuid>fd76bf73-ad7d-49e2-bb15-e130812490c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cartModalBody']/table/tbody/tr/td[2]/h5</value>
+      <webElementGuid>023d82c5-6ed6-4aec-b1e4-f55de338e488</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingredients: tomatoes, garlic, olive oil'])[1]/following::h5[1]</value>
+      <webElementGuid>adc12c9e-04fb-473e-bd0d-8a55a919df9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pasta Tomato Sauce'])[1]/following::h5[1]</value>
+      <webElementGuid>35f8506a-d088-41f9-b1fd-44a89d61ca19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pasta Aglio Olio'])[1]/preceding::h5[2]</value>
+      <webElementGuid>8dc55f70-c916-4ac4-b395-79e1a5fde2e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingredients: Parmigiano-Reggiano cheese, garlic, olive oil, red pepper'])[1]/preceding::h5[3]</value>
+      <webElementGuid>a8bf044f-25cb-4d8e-a26a-5df56aa1e70c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1']/parent::*</value>
+      <webElementGuid>439ebeed-2aed-40c1-84ed-5af4be0a1209</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/h5</value>
+      <webElementGuid>a05b7839-166a-42c0-8d16-0d72363944d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h5[(text() = '1' or . = '1')]</value>
+      <webElementGuid>63e87420-c6e8-4783-b487-bee3fe9f5b19</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
