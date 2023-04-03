@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Email_passmacarino</name>
+   <name>input_Register_Password</name>
    <tag></tag>
-   <elementGuidId>1ec9861a-ae0b-4776-ae4f-11c51bbdb61e</elementGuidId>
+   <elementGuidId>619f7547-2171-4a52-96da-d8b3f5e93973</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//input[@id='password']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>#password</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='password']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>e7a1622e-a356-4a66-8c47-b0b5386c24a3</webElementGuid>
+      <webElementGuid>773f32e0-f8fd-4e07-80e3-396b691f8e78</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>0cd771f5-903b-423c-8dd6-a744d8f057a1</webElementGuid>
+      <webElementGuid>29259722-9b5f-4824-a792-a7f6066b9dc7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form__field</value>
-      <webElementGuid>97f88e83-db3b-4823-a159-e0cc3c9aaca5</webElementGuid>
+      <webElementGuid>12053a96-820a-466d-b96f-b833a4a4e01e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,15 +46,15 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Name</value>
-      <webElementGuid>eb00086b-4d23-42b1-a2e8-111a9db99477</webElementGuid>
+      <webElementGuid>feaf1641-9120-409c-9ddb-0f0229765945</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>passmacarino</value>
-      <webElementGuid>3433249e-a0ec-4b4e-844b-822955282acd</webElementGuid>
+      <value>userPassword</value>
+      <webElementGuid>b2286863-7212-4257-a25a-5fbae8020ee5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>id</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>6ca2d8e7-2c13-4a19-a972-97b15f1526de</webElementGuid>
+      <webElementGuid>e63f3e20-b9d6-4f31-8c2b-38b2fd0ead18</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;password&quot;)</value>
-      <webElementGuid>637ffb0a-1e8a-458b-8cde-909088f24d5b</webElementGuid>
+      <webElementGuid>bf8cc456-9eca-4156-98bb-60a0b5b1c6e8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,30 +78,30 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='password']</value>
-      <webElementGuid>c3ff254d-be9f-43df-8674-e4e2f7e243ef</webElementGuid>
+      <webElementGuid>11475a92-82aa-43cf-a112-a5fc07b1ee18</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='login']/div[2]/input</value>
-      <webElementGuid>615b2d15-521b-457d-8d11-af52b809d074</webElementGuid>
+      <value>//section[@id='category']/div/div/div/div/form/div[6]/input</value>
+      <webElementGuid>6a02009e-0cab-489c-a1f1-55e29d0d8266</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/input</value>
-      <webElementGuid>1092a7b9-3dfd-4327-852f-9268ad608f94</webElementGuid>
+      <value>//div[6]/input</value>
+      <webElementGuid>e611400e-c673-4599-84d6-360fcd2a4d90</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'password' and @placeholder = 'Name' and @name = 'passmacarino' and @id = 'password']</value>
-      <webElementGuid>b7e517b1-d0f5-4e2e-95c2-aa5f3ec69b0f</webElementGuid>
+      <value>//input[@type = 'password' and @placeholder = 'Name' and @name = 'userPassword' and @id = 'password']</value>
+      <webElementGuid>4857061b-cc71-4a4b-aed6-ba22f2167163</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_login to Admin session_mailmacarino</name>
+   <name>input_login_pass</name>
    <tag></tag>
-   <elementGuidId>458877e1-a3a9-4d02-a26c-bef2d36119d3</elementGuidId>
+   <elementGuidId>1ec9861a-ae0b-4776-ae4f-11c51bbdb61e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='AdminEmail']</value>
+         <key>CSS</key>
+         <value>#password</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#AdminEmail</value>
+         <key>XPATH</key>
+         <value>//input[@id='password']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>313a2b22-3535-4ff9-a9d3-3f327c9c15e9</webElementGuid>
+      <webElementGuid>e7a1622e-a356-4a66-8c47-b0b5386c24a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>email</value>
-      <webElementGuid>76eee7cd-09e4-499f-9014-3e1cce1e6149</webElementGuid>
+      <value>password</value>
+      <webElementGuid>0cd771f5-903b-423c-8dd6-a744d8f057a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,70 +38,70 @@
       <name>class</name>
       <type>Main</type>
       <value>form__field</value>
-      <webElementGuid>649309a8-e721-416f-bdbb-c6f97a029ff0</webElementGuid>
+      <webElementGuid>97f88e83-db3b-4823-a159-e0cc3c9aaca5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>AdminEmail</value>
-      <webElementGuid>2c6154d9-13d3-4ab8-96aa-b25fe5131d4f</webElementGuid>
+      <value>Name</value>
+      <webElementGuid>eb00086b-4d23-42b1-a2e8-111a9db99477</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>mailmacarino</value>
-      <webElementGuid>364fab82-e54f-469f-b7b7-8f404a3dfddb</webElementGuid>
+      <value>passmacarino</value>
+      <webElementGuid>3433249e-a0ec-4b4e-844b-822955282acd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>AdminEmail</value>
-      <webElementGuid>0455e559-439d-493f-85be-987df45b5faa</webElementGuid>
+      <value>password</value>
+      <webElementGuid>6ca2d8e7-2c13-4a19-a972-97b15f1526de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;AdminEmail&quot;)</value>
-      <webElementGuid>4da59022-1bff-4285-b2b9-12c319906f99</webElementGuid>
+      <value>id(&quot;password&quot;)</value>
+      <webElementGuid>637ffb0a-1e8a-458b-8cde-909088f24d5b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='AdminEmail']</value>
-      <webElementGuid>b3362c48-4ef5-4ee1-a917-277dccae9628</webElementGuid>
+      <value>//input[@id='password']</value>
+      <webElementGuid>c3ff254d-be9f-43df-8674-e4e2f7e243ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='login']/div/input</value>
-      <webElementGuid>2e24d8e9-9fef-4219-bfcb-97d258d9bcb0</webElementGuid>
+      <value>//form[@id='login']/div[2]/input</value>
+      <webElementGuid>615b2d15-521b-457d-8d11-af52b809d074</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>aa497110-7844-4a10-9794-cdbb11ff6c8c</webElementGuid>
+      <value>//div[2]/input</value>
+      <webElementGuid>1092a7b9-3dfd-4327-852f-9268ad608f94</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'email' and @placeholder = 'AdminEmail' and @name = 'mailmacarino' and @id = 'AdminEmail']</value>
-      <webElementGuid>dc262e53-a180-433d-92ad-c1882c71edc4</webElementGuid>
+      <value>//input[@type = 'password' and @placeholder = 'Name' and @name = 'passmacarino' and @id = 'password']</value>
+      <webElementGuid>b7e517b1-d0f5-4e2e-95c2-aa5f3ec69b0f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

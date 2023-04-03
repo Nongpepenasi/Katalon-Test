@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>td_username3</name>
+   <name>td_result_username3</name>
    <tag></tag>
    <elementGuidId>5ca4c487-8efd-46d4-bb45-703ed6dad45b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id=&quot;order&quot;]/div/table/tbody/tr[5]/td[1]/div</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>td.name</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;order&quot;]/div/table/tbody/tr[5]/td[1]/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

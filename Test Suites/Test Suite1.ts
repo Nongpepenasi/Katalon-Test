@@ -12,79 +12,9 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>810ab8bd-9fed-4a8d-8c95-e16694742fad</testSuiteGuid>
    <testCaseLink>
-      <guid>1ab05941-d891-460d-9851-442507b3a6c9</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
-      <testCaseId>Test Cases/Test add to cart</testCaseId>
-      <testDataLink>
-         <combinationType>ONE</combinationType>
-         <id>b1dd8363-7a58-46f3-8b52-38d5d44cc7c0</id>
-         <iterationEntity>
-            <iterationType>ALL</iterationType>
-            <value></value>
-         </iterationEntity>
-         <testDataId>Data Files/data for test1</testDataId>
-      </testDataLink>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId>b1dd8363-7a58-46f3-8b52-38d5d44cc7c0</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>title</value>
-         <variableId>9fff5ec9-9fcd-4ecd-8758-d105f5f9dc22</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId>b1dd8363-7a58-46f3-8b52-38d5d44cc7c0</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>description</value>
-         <variableId>195cbedb-a7c2-444f-b18a-05fe1f4dc957</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId>b1dd8363-7a58-46f3-8b52-38d5d44cc7c0</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>qty</value>
-         <variableId>70e68a35-857f-4160-bcb2-ec2a3e959ff9</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId>b1dd8363-7a58-46f3-8b52-38d5d44cc7c0</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>price</value>
-         <variableId>91214984-ad33-418d-bb3f-94cfa354822f</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId>b1dd8363-7a58-46f3-8b52-38d5d44cc7c0</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>total_price</value>
-         <variableId>0cdc3ec7-3f8f-4410-97bd-a858cdc5ced1</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId>b1dd8363-7a58-46f3-8b52-38d5d44cc7c0</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>title2</value>
-         <variableId>3c3ccc86-398c-49aa-a74f-2c36dca90a62</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId>b1dd8363-7a58-46f3-8b52-38d5d44cc7c0</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>description2</value>
-         <variableId>472550b8-4333-4fec-9bc0-492d61116b24</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId>b1dd8363-7a58-46f3-8b52-38d5d44cc7c0</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>qty2</value>
-         <variableId>6643364b-b65b-49ff-80a3-4853402587d1</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId>b1dd8363-7a58-46f3-8b52-38d5d44cc7c0</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>price2</value>
-         <variableId>e4d002e5-1df9-4264-93cb-ec6dbab0a0e4</variableId>
-      </variableLink>
-   </testCaseLink>
-   <testCaseLink>
       <guid>cc162ee1-14b2-4bc0-8b17-8c3ba19cbd33</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Test Register and Login Var</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -125,6 +55,76 @@
          <type>DATA_COLUMN</type>
          <value>User_Name</value>
          <variableId>04090791-582f-469f-ad38-2dd9d294a68c</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>1ab05941-d891-460d-9851-442507b3a6c9</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Test add to cart Var</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>b1dd8363-7a58-46f3-8b52-38d5d44cc7c0</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/data for test1</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>b1dd8363-7a58-46f3-8b52-38d5d44cc7c0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>title</value>
+         <variableId>9e8ce8a3-44a4-4ab1-848d-56afccfbb1c8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b1dd8363-7a58-46f3-8b52-38d5d44cc7c0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>description</value>
+         <variableId>615dbbf4-9e9c-41dc-bd37-45f5d17bfd58</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b1dd8363-7a58-46f3-8b52-38d5d44cc7c0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>qty</value>
+         <variableId>637afb59-a3c7-475b-ae37-9138dbd13139</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b1dd8363-7a58-46f3-8b52-38d5d44cc7c0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>price</value>
+         <variableId>aea05330-0f1c-40aa-9bdd-d4a571f152f2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b1dd8363-7a58-46f3-8b52-38d5d44cc7c0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>total_price</value>
+         <variableId>84bdbae8-19a0-4e96-82f7-4ff3261cbb87</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b1dd8363-7a58-46f3-8b52-38d5d44cc7c0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>title2</value>
+         <variableId>56bea473-70a3-4313-add9-752409bc2bee</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b1dd8363-7a58-46f3-8b52-38d5d44cc7c0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>description2</value>
+         <variableId>e9c454d0-35ba-4cc7-993b-8d7e1f2899ea</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b1dd8363-7a58-46f3-8b52-38d5d44cc7c0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>qty2</value>
+         <variableId>8386a3f0-727a-4730-90b8-052fea420b8f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b1dd8363-7a58-46f3-8b52-38d5d44cc7c0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>price2</value>
+         <variableId>b228e368-87c3-49c8-8f4b-bbf71757941a</variableId>
       </variableLink>
    </testCaseLink>
    <testCaseLink>

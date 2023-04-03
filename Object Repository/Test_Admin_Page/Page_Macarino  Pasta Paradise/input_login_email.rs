@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_login_userEmail</name>
+   <name>input_login_email</name>
    <tag></tag>
-   <elementGuidId>daff5227-ee26-412b-b040-cb2065cfca88</elementGuidId>
+   <elementGuidId>458877e1-a3a9-4d02-a26c-bef2d36119d3</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='userInput']</value>
+         <key>CSS</key>
+         <value>#AdminEmail</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#userInput</value>
+         <key>XPATH</key>
+         <value>//input[@id='AdminEmail']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>c4fbfe5f-d689-4266-85da-108c9353be21</webElementGuid>
+      <webElementGuid>313a2b22-3535-4ff9-a9d3-3f327c9c15e9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>email</value>
-      <webElementGuid>549a0ef6-c1e7-4075-9d71-1046a63ef292</webElementGuid>
+      <webElementGuid>76eee7cd-09e4-499f-9014-3e1cce1e6149</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,47 +38,47 @@
       <name>class</name>
       <type>Main</type>
       <value>form__field</value>
-      <webElementGuid>2506aec2-4980-4d74-8a5c-6962429dff51</webElementGuid>
+      <webElementGuid>649309a8-e721-416f-bdbb-c6f97a029ff0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Name</value>
-      <webElementGuid>96d20282-4b26-4fca-ac16-b70a5e733571</webElementGuid>
+      <value>AdminEmail</value>
+      <webElementGuid>2c6154d9-13d3-4ab8-96aa-b25fe5131d4f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>userEmail</value>
-      <webElementGuid>d74d9c92-2f83-4922-b986-99c3ecb8be05</webElementGuid>
+      <value>mailmacarino</value>
+      <webElementGuid>364fab82-e54f-469f-b7b7-8f404a3dfddb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>userInput</value>
-      <webElementGuid>a2c75077-5541-4b97-9f4a-6bffd1e87a13</webElementGuid>
+      <value>AdminEmail</value>
+      <webElementGuid>0455e559-439d-493f-85be-987df45b5faa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;userInput&quot;)</value>
-      <webElementGuid>dfab38ff-ce32-4235-af01-c000a5cf5b67</webElementGuid>
+      <value>id(&quot;AdminEmail&quot;)</value>
+      <webElementGuid>4da59022-1bff-4285-b2b9-12c319906f99</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='userInput']</value>
-      <webElementGuid>daa624e6-25eb-4657-8067-aceb4ebdc357</webElementGuid>
+      <value>//input[@id='AdminEmail']</value>
+      <webElementGuid>b3362c48-4ef5-4ee1-a917-277dccae9628</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='login']/div/input</value>
-      <webElementGuid>8f1718e3-a73a-4ac8-85ea-70852e3b3aa5</webElementGuid>
+      <webElementGuid>2e24d8e9-9fef-4219-bfcb-97d258d9bcb0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,14 +94,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>ffe84ab5-25ad-47bd-988a-4bfba842f73c</webElementGuid>
+      <webElementGuid>aa497110-7844-4a10-9794-cdbb11ff6c8c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'email' and @placeholder = 'Name' and @name = 'userEmail' and @id = 'userInput']</value>
-      <webElementGuid>c28e094f-2b1a-4dda-81d4-7c4307ea2353</webElementGuid>
+      <value>//input[@type = 'email' and @placeholder = 'AdminEmail' and @name = 'mailmacarino' and @id = 'AdminEmail']</value>
+      <webElementGuid>dc262e53-a180-433d-92ad-c1882c71edc4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

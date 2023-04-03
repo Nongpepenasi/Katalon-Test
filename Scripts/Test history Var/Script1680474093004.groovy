@@ -25,10 +25,10 @@ WebUI.click(findTestObject('Object Repository/Test_History_Page/Page_Macarino  P
 
 WebUI.click(findTestObject('Object Repository/Test_History_Page/Page_Macarino  Pasta Paradise/a_Log in'))
 
-WebUI.setText(findTestObject('Object Repository/Test_History_Page/Page_Macarino  Pasta Paradise/input_login_userEmail'), 
+WebUI.setText(findTestObject('Object Repository/Test_History_Page/Page_Macarino  Pasta Paradise/input_login_email'), 
     Email)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Test_History_Page/Page_Macarino  Pasta Paradise/input_Email_userPassword'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/Test_History_Page/Page_Macarino  Pasta Paradise/input_login_password'), 
     'UGzGApiBB8E=')
 
 WebUI.click(findTestObject('Object Repository/Test_History_Page/Page_Macarino  Pasta Paradise/button_Login'))
@@ -37,12 +37,12 @@ WebUI.click(findTestObject('Object Repository/Test_History_Page/Page_Macarino  P
 
 WebUI.click(findTestObject('Object Repository/Test_History_Page/Page_Macarino  Pasta Paradise/a_History'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Test_History_Page/Page_Macarino  Pasta Paradise/td_OrderId1'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Test_History_Page/Page_Macarino  Pasta Paradise/td_result_OrderId1'), 
     OrderId1)
 
-WebUI.verifyElementText(findTestObject('Test_History_Page/Page_Macarino  Pasta Paradise/td_OrderId2'), OrderId2)
+WebUI.verifyElementText(findTestObject('Test_History_Page/Page_Macarino  Pasta Paradise/td_result_OrderId2'), OrderId2)
 
-WebUI.verifyElementText(findTestObject('Test_History_Page/Page_Macarino  Pasta Paradise/td_OrderId3'), OrderId3)
+WebUI.verifyElementText(findTestObject('Test_History_Page/Page_Macarino  Pasta Paradise/td_result_OrderId3'), OrderId3)
 
 WebUI.closeBrowser()
 

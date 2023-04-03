@@ -21,50 +21,50 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://3.215.189.148:3000/')
 
-WebUI.click(findTestObject('Object Repository/Project_Dev_Ops/Page_Macarino  Pasta Paradise/a_Account'))
+WebUI.click(findTestObject('Object Repository/Test_Add_To_Cart_Function/Page_Macarino  Pasta Paradise/a_Account'))
 
-WebUI.click(findTestObject('Object Repository/Project_Dev_Ops/Page_Macarino  Pasta Paradise/a_Log in'))
+WebUI.click(findTestObject('Object Repository/Test_Add_To_Cart_Function/Page_Macarino  Pasta Paradise/a_Log in'))
 
-WebUI.setText(findTestObject('Object Repository/Project_Dev_Ops/Page_Macarino  Pasta Paradise/input_login_userEmail'), 'test@test.com')
+WebUI.setText(findTestObject('Object Repository/Test_Add_To_Cart_Function/Page_Macarino  Pasta Paradise/input_login_userEmail'), 'test@test.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Project_Dev_Ops/Page_Macarino  Pasta Paradise/input_Email_userPassword'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/Test_Add_To_Cart_Function/Page_Macarino  Pasta Paradise/input_Email_userPassword'), 
     'UGzGApiBB8E=')
 
-WebUI.click(findTestObject('Object Repository/Project_Dev_Ops/Page_Macarino  Pasta Paradise/button_Login'))
+WebUI.click(findTestObject('Object Repository/Test_Add_To_Cart_Function/Page_Macarino  Pasta Paradise/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/Project_Dev_Ops/Page_Macarino  Pasta Paradise/button_add-to-cart1'))
+WebUI.click(findTestObject('Object Repository/Test_Add_To_Cart_Function/Page_Macarino  Pasta Paradise/button_add-to-cart1'))
 
-WebUI.click(findTestObject('Object Repository/Project_Dev_Ops/Page_Macarino  Pasta Paradise/a_Cart'))
+WebUI.click(findTestObject('Object Repository/Test_Add_To_Cart_Function/Page_Macarino  Pasta Paradise/a_Cart'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Project_Dev_Ops/Page_Macarino  Pasta Paradise/h5_result_title1'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Test_Add_To_Cart_Function/Page_Macarino  Pasta Paradise/h5_result_title1'), 
     'Pasta Tomato Sauce')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Project_Dev_Ops/Page_Macarino  Pasta Paradise/span_result_description1'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Test_Add_To_Cart_Function/Page_Macarino  Pasta Paradise/span_result_description1'), 
     'Ingredients: tomatoes, garlic, olive oil')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Project_Dev_Ops/Page_Macarino  Pasta Paradise/h5_result_qty1'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Test_Add_To_Cart_Function/Page_Macarino  Pasta Paradise/h5_result_qty1'), 
     '1')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Project_Dev_Ops/Page_Macarino  Pasta Paradise/h5_result_price1'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Test_Add_To_Cart_Function/Page_Macarino  Pasta Paradise/h5_result_price1'), 
     '99 ฿')
 
-WebUI.click(findTestObject('Object Repository/Project_Dev_Ops/Page_Macarino  Pasta Paradise/a_Checkout'))
+WebUI.click(findTestObject('Object Repository/Test_Add_To_Cart_Function/Page_Macarino  Pasta Paradise/a_Checkout'))
 
-WebUI.verifyElementText(findTestObject('Project_Dev_Ops/Page_Macarino  Pasta Paradise/h5_result_title_checkout_page1'), 
+WebUI.verifyElementText(findTestObject('Test_Add_To_Cart_Function/Page_Macarino  Pasta Paradise/h5_result_title_checkout_page1'), 
     'Pasta Tomato Sauce')
 
-WebUI.verifyElementText(findTestObject('Project_Dev_Ops/Page_Macarino  Pasta Paradise/h5_result_qty_checkout_page1'), '1')
+WebUI.verifyElementText(findTestObject('Test_Add_To_Cart_Function/Page_Macarino  Pasta Paradise/h5_result_qty_checkout_page1'), '1')
 
-WebUI.verifyElementText(findTestObject('Project_Dev_Ops/Page_Macarino  Pasta Paradise/h5_result_price_checkout_page1'), 
+WebUI.verifyElementText(findTestObject('Test_Add_To_Cart_Function/Page_Macarino  Pasta Paradise/h5_result_price_checkout_page1'), 
     '99 ฿')
 
-WebUI.verifyElementText(findTestObject('Project_Dev_Ops/Page_Macarino  Pasta Paradise/h4_result_total_price_checkout_page'), 
+WebUI.verifyElementText(findTestObject('Test_Add_To_Cart_Function/Page_Macarino  Pasta Paradise/h4_result_total_price_checkout_page'), 
     '99 ฿')
 
-WebUI.verifyElementText(findTestObject('Project_Dev_Ops/Page_Macarino  Pasta Paradise/h4_result_total_price_checkout_page_delivery_div'), 
+WebUI.verifyElementText(findTestObject('Test_Add_To_Cart_Function/Page_Macarino  Pasta Paradise/h4_result_total_price_checkout_page_delivery_div'), 
     '99 ฿')
 
-WebUI.verifyElementText(findTestObject('Project_Dev_Ops/Page_Macarino  Pasta Paradise/h3_result_final_total_price_checkout_page_delivery_div'), 
+WebUI.verifyElementText(findTestObject('Test_Add_To_Cart_Function/Page_Macarino  Pasta Paradise/h3_result_final_total_price_checkout_page_delivery_div'), 
     '99 ฿')
 
 WebUI.closeBrowser()

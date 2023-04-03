@@ -34,49 +34,49 @@ WebUI.setText(findTestObject('Object Repository/Test_Register_Login/Page_Macarin
 
 WebUI.click(findTestObject('Object Repository/Test_Register_Login/Page_Macarino  Pasta Paradise/label_Lastname'))
 
-WebUI.setText(findTestObject('Object Repository/Test_Register_Login/Page_Macarino  Pasta Paradise/input_Name_Lastname'), 
+WebUI.setText(findTestObject('Object Repository/Test_Register_Login/Page_Macarino  Pasta Paradise/input_Register_Lastname'), 
     'test last name')
 
 WebUI.click(findTestObject('Object Repository/Test_Register_Login/Page_Macarino  Pasta Paradise/label_Email'))
 
-WebUI.setText(findTestObject('Object Repository/Test_Register_Login/Page_Macarino  Pasta Paradise/input_Lastname_userEmail'), 
+WebUI.setText(findTestObject('Object Repository/Test_Register_Login/Page_Macarino  Pasta Paradise/input_Register_Email'), 
     'test1@test.com')
 
 WebUI.click(findTestObject('Object Repository/Test_Register_Login/Page_Macarino  Pasta Paradise/label_Address'))
 
-WebUI.setText(findTestObject('Object Repository/Test_Register_Login/Page_Macarino  Pasta Paradise/input_Email_userAddress'), 
+WebUI.setText(findTestObject('Object Repository/Test_Register_Login/Page_Macarino  Pasta Paradise/input_Register_Address'), 
     'Chiang Mai')
 
 WebUI.click(findTestObject('Object Repository/Test_Register_Login/Page_Macarino  Pasta Paradise/label_Username'))
 
-WebUI.setText(findTestObject('Object Repository/Test_Register_Login/Page_Macarino  Pasta Paradise/input_Address_userName'), 
+WebUI.setText(findTestObject('Object Repository/Test_Register_Login/Page_Macarino  Pasta Paradise/input_Register_UserName'), 
     'test1')
 
 WebUI.click(findTestObject('Object Repository/Test_Register_Login/Page_Macarino  Pasta Paradise/label_Password'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Test_Register_Login/Page_Macarino  Pasta Paradise/input_Username_userPassword'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/Test_Register_Login/Page_Macarino  Pasta Paradise/input_Register_Password'), 
     'UGzGApiBB8E=')
 
 WebUI.click(findTestObject('Object Repository/Test_Register_Login/Page_Macarino  Pasta Paradise/label_Confirm password'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Test_Register_Login/Page_Macarino  Pasta Paradise/input_Password_userConfirmPass'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/Test_Register_Login/Page_Macarino  Pasta Paradise/input_Register_ConfirmPassword'), 
     'UGzGApiBB8E=')
 
 WebUI.click(findTestObject('Object Repository/Test_Register_Login/Page_Macarino  Pasta Paradise/span_Register'))
 
-WebUI.click(findTestObject('Object Repository/Test_Register_Login/Page_Macarino  Pasta Paradise/label_Email'))
+WebUI.click(findTestObject('Test_Register_Login/Page_Macarino  Pasta Paradise/label_Email_Login_Page'))
 
-WebUI.setText(findTestObject('Object Repository/Test_Register_Login/Page_Macarino  Pasta Paradise/input_login_userEmail'), 
-    'test1@test.com')
+WebUI.setText(findTestObject('Object Repository/Test_Register_Login/Page_Macarino  Pasta Paradise/input_Login_Email'), 'test1@test.com')
 
-WebUI.click(findTestObject('Object Repository/Test_Register_Login/Page_Macarino  Pasta Paradise/label_Password'))
+WebUI.click(findTestObject('Test_Register_Login/Page_Macarino  Pasta Paradise/label_Password_Login_Page'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Test_Register_Login/Page_Macarino  Pasta Paradise/input_Username_userPassword'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/Test_Register_Login/Page_Macarino  Pasta Paradise/input_Register_Password'), 
     'UGzGApiBB8E=')
 
 WebUI.click(findTestObject('Object Repository/Test_Register_Login/Page_Macarino  Pasta Paradise/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/Test_Register_Login/Page_Macarino  Pasta Paradise/a_test1'))
+WebUI.verifyElementText(findTestObject('Object Repository/Test_Register_Login/Page_Macarino  Pasta Paradise/a_result_Username'), 
+    'test1')
 
 WebUI.closeBrowser()
 

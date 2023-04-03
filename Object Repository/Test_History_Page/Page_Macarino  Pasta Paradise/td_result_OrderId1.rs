@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>td_OrderId1</name>
+   <name>td_result_OrderId1</name>
    <tag></tag>
    <elementGuidId>6102f4ae-11bd-4ec0-b303-22ab8c5b10da</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id=&quot;category&quot;]/div/div[1]/div/div/div/table/tbody/tr[1]/td[1]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>td</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;category&quot;]/div/div[1]/div/div/div/table/tbody/tr[1]/td[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

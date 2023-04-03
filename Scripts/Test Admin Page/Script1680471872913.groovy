@@ -27,15 +27,15 @@ WebUI.click(findTestObject('Object Repository/Test_Admin_Page/Page_Macarino  Pas
 
 WebUI.click(findTestObject('Object Repository/Test_Admin_Page/Page_Macarino  Pasta Paradise/b_click'))
 
-WebUI.setText(findTestObject('Object Repository/Test_Admin_Page/Page_Macarino  Pasta Paradise/input_login to Admin session_mailmacarino'), 
+WebUI.setText(findTestObject('Object Repository/Test_Admin_Page/Page_Macarino  Pasta Paradise/input_login_email'), 
     'macarino@admin.camt')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Test_Admin_Page/Page_Macarino  Pasta Paradise/input_Email_passmacarino'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/Test_Admin_Page/Page_Macarino  Pasta Paradise/input_login_pass'), 
     'mXyJ2IiqxDRA2k6n2mj5RQ==')
 
 WebUI.click(findTestObject('Object Repository/Test_Admin_Page/Page_Macarino  Pasta Paradise/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/Test_Admin_Page/Page_Macarino  Pasta Paradise/td_username1'))
+WebUI.click(findTestObject('Object Repository/Test_Admin_Page/Page_Macarino  Pasta Paradise/td_result_username1'))
 
 WebUI.closeBrowser()
 

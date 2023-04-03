@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>label_Password_Login</name>
+   <name>td_result_username1</name>
    <tag></tag>
-   <elementGuidId>c642fc64-f43c-4189-b56e-65a4d1a0b5c4</elementGuidId>
+   <elementGuidId>d31ac20c-b2db-4075-b389-65213bb9790e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/section/div/div[1]/div/div/form/div[2]/input</value>
+         <key>CSS</key>
+         <value>td.name</value>
       </entry>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;order&quot;]/div/table/tbody/tr[1]/td[1]/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -20,103 +21,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>label</value>
-      <webElementGuid>a045a626-03e0-40b7-be7f-1850bee610b3</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>for</name>
-      <type>Main</type>
-      <value>password</value>
-      <webElementGuid>3d153559-7a62-48bc-8e6a-6cf984872fba</webElementGuid>
+      <value>td</value>
+      <webElementGuid>b1e6276a-ece4-4a3b-a690-aa18674b0ad8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form__label</value>
-      <webElementGuid>d31d4e5b-770f-45d4-99ff-32c54606ed09</webElementGuid>
+      <value>name</value>
+      <webElementGuid>de86e154-88e9-40e4-b158-747e2c9d78e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Password</value>
-      <webElementGuid>19f3dc77-2a4e-4703-be8f-8076994d4465</webElementGuid>
+      <value>tester0000-0000</value>
+      <webElementGuid>26983863-5af1-4ef4-a184-5bae7f976eea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;category&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[1]/div[@class=&quot;bg-transparent&quot;]/form[1]/div[@class=&quot;form__group field&quot;]/label[@class=&quot;form__label&quot;]</value>
-      <webElementGuid>84d8ac3c-f5b2-4ac5-849a-af08611f7ea8</webElementGuid>
+      <value>id(&quot;order&quot;)/div[@class=&quot;table-responsive-sm&quot;]/table[@class=&quot;table&quot;]/tbody[@class=&quot;table-group-divider&quot;]/tr[1]/td[@class=&quot;name&quot;]</value>
+      <webElementGuid>46b43009-4095-4ed1-bdb3-c60e96fd0587</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//section[@id='category']/div/div/div/div/form/div[6]/label</value>
-      <webElementGuid>a0126983-65cc-4379-90f1-d81ea50d1a12</webElementGuid>
+      <value>//section[@id='order']/div/table/tbody/tr/td</value>
+      <webElementGuid>6f93152c-1158-482d-8740-11c6fc8988ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/following::label[1]</value>
-      <webElementGuid>b0d8556d-eed5-4bea-bbb8-8d0f1e3c7c96</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Info.'])[1]/following::td[1]</value>
+      <webElementGuid>cf0d7d4b-9ba2-4869-8a69-d64ff7f8fcb1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address'])[1]/following::label[2]</value>
-      <webElementGuid>64be46f6-32eb-4844-8639-f48bcaa1da0f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Price'])[1]/following::td[1]</value>
+      <webElementGuid>3acd818f-7e5a-4444-bb6b-abc95fce3ff6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm password'])[1]/preceding::label[1]</value>
-      <webElementGuid>cdfd97b0-7454-4c7f-aa53-4d1363cd2b91</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='queue'])[1]/preceding::td[1]</value>
+      <webElementGuid>80b81031-173f-4f66-9892-c2801e44a4f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[2]/preceding::label[2]</value>
-      <webElementGuid>c699fff5-8394-4edc-b467-266e2c710c7c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='...'])[1]/preceding::td[3]</value>
+      <webElementGuid>3e3e6757-bb2f-48b2-97be-da1ed5317d02</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Password']/parent::*</value>
-      <webElementGuid>35115690-3141-426e-9b83-d1355e52e0b0</webElementGuid>
+      <value>//*/text()[normalize-space(.)='tester']/parent::*</value>
+      <webElementGuid>19960f50-60d5-471b-a5ac-6b4f7b9a2c7f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[6]/label</value>
-      <webElementGuid>e92b250f-fef4-4b8f-ad6a-1e5710fbdf16</webElementGuid>
+      <value>//td</value>
+      <webElementGuid>4d9b5e8b-dcc5-488b-ad24-d7f57332a766</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//label[(text() = 'Password' or . = 'Password')]</value>
-      <webElementGuid>b97b125d-0700-44d7-87d3-909f40cac129</webElementGuid>
+      <value>//td[(text() = 'tester0000-0000' or . = 'tester0000-0000')]</value>
+      <webElementGuid>51a7d932-5071-4f89-a65c-bd8a053b787e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

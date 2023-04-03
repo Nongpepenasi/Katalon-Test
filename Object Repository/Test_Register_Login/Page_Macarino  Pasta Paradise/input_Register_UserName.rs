@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Password_userConfirmPass</name>
+   <name>input_Register_UserName</name>
    <tag></tag>
-   <elementGuidId>0584d5ff-ba13-48cc-b054-07ac91455638</elementGuidId>
+   <elementGuidId>ed7376a7-cd4a-4aff-a423-94e9af6b2df8</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#cfpassword</value>
+         <value>#userName</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='cfpassword']</value>
+         <value>//input[@id='userName']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>9c5f79f2-2929-4667-a017-01f36d687b1d</webElementGuid>
+      <webElementGuid>9f7bcd6f-6d12-4f83-96df-14794fed6c79</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>b1460dd8-e690-44cc-b4eb-2b09201697a7</webElementGuid>
+      <value>input</value>
+      <webElementGuid>c4c41c46-70ee-4abf-914b-959af37f6032</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,70 +38,70 @@
       <name>class</name>
       <type>Main</type>
       <value>form__field</value>
-      <webElementGuid>5c933b6c-7f21-4453-a07f-4a33d452e3ae</webElementGuid>
+      <webElementGuid>92f809a2-4e7c-497f-a983-d02e36fafe01</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Confirm Password</value>
-      <webElementGuid>8e40be88-9896-4b18-a85f-66a2ef261df4</webElementGuid>
+      <value>UserName</value>
+      <webElementGuid>6d43ce6b-a429-4631-ae84-c7d070cfcb42</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>userConfirmPass</value>
-      <webElementGuid>3484fe6c-e67c-44e2-9069-d68c864c9e77</webElementGuid>
+      <value>userName</value>
+      <webElementGuid>42d8250f-38ee-4ce2-9800-3d1e214074d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>cfpassword</value>
-      <webElementGuid>6bb0cecc-ec3a-4508-a859-a160b92a91ac</webElementGuid>
+      <value>userName</value>
+      <webElementGuid>f5afbd5d-47a8-4951-adae-e4475b7c70db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;cfpassword&quot;)</value>
-      <webElementGuid>b3ce9775-9c85-4ada-8259-be4913e41523</webElementGuid>
+      <value>id(&quot;userName&quot;)</value>
+      <webElementGuid>6159713e-5573-42a8-9907-6aab9ee5e8e5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='cfpassword']</value>
-      <webElementGuid>d1deda61-eaf0-45c4-a552-90dd823dee33</webElementGuid>
+      <value>//input[@id='userName']</value>
+      <webElementGuid>809be1f8-951b-4092-8f1f-c88564d7e734</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//section[@id='category']/div/div/div/div/form/div[7]/input</value>
-      <webElementGuid>a1327325-c204-4b66-8936-fed849458180</webElementGuid>
+      <value>//section[@id='category']/div/div/div/div/form/div[5]/input</value>
+      <webElementGuid>2ce41e06-7269-43b9-a1c5-e541a7a97986</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[7]/input</value>
-      <webElementGuid>f3084a2b-f448-4c07-9dff-a0f74bfeeacc</webElementGuid>
+      <value>//div[5]/input</value>
+      <webElementGuid>7dbe5677-0c14-4236-b47d-cf819804b91a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'password' and @placeholder = 'Confirm Password' and @name = 'userConfirmPass' and @id = 'cfpassword']</value>
-      <webElementGuid>a2f0dcbf-3534-416b-9e58-0860839333bf</webElementGuid>
+      <value>//input[@type = 'input' and @placeholder = 'UserName' and @name = 'userName' and @id = 'userName']</value>
+      <webElementGuid>bdd76043-cc78-47ab-af9f-40e2797be00d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
